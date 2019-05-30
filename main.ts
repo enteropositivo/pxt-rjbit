@@ -19,10 +19,10 @@ namespace rjbit {
     }
 
     const PortDigi = [
-        [DigitalPin.P0, DigitalPin.P8],
-        [DigitalPin.P1, DigitalPin.P12],
-        [DigitalPin.P2, DigitalPin.P13],
-        [DigitalPin.P14, DigitalPin.P15]
+        [DigitalPin.P13, DigitalPin.P14],
+        [DigitalPin.P15, DigitalPin.P16],
+        [DigitalPin.P1, DigitalPin.P2],
+        [DigitalPin.P3, DigitalPin.P4]
     ]
 
     const PortAnalog = [
